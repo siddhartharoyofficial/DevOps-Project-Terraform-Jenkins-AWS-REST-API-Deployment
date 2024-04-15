@@ -70,7 +70,7 @@ This project demonstrates the setup of a DevOps environment using Terraform, Jen
     terraform init
     terraform plan
     terraform apply
-    terraform apply -auto-approve #For auto approving ```
+    terraform apply -auto-approve #For auto approving
 
 3. **Configure Jenkins pipelines for CI/CD:**
 
