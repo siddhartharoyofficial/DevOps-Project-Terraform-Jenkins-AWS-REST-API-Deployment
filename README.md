@@ -3,9 +3,9 @@
 ## Overview
 This project demonstrates the setup of a DevOps environment using Terraform, Jenkins, and AWS to deploy a REST-based web application built with Python Flask and MySQL on an RDS instance.
 
-![AWS Diagram](main.jpg)
+![AWS Diagram](/images/main.jpg)
 
-![User Flow](Jenkins.jpg)
+![User Flow](/images/Jenkins.jpg)
 
 ## Tools and Technologies
 - Terraform: Infrastructure provisioning and management.
@@ -75,7 +75,7 @@ This project demonstrates the setup of a DevOps environment using Terraform, Jen
 3. **Configure Jenkins pipelines for CI/CD:**
 
 - Set up Jenkins job to fetch code from GitHub and trigger build and deployment.
-  ![](github.jpeg)
+  ![](/images/github.jpeg)
   
 1. **Access the REST API:**
 
